@@ -59,6 +59,6 @@ Marketing Campaign : marketing@fiuu.com<br>
 Channel/Partner Enquiry : channel@fiuu.com<br>
 Media Contact : media@fiuu.com<br>
 R&D and Tech-related Suggestion : technical@fiuu.com<br>
-Abuse Reporting : abuse@fiuu.com
-R&D and Tech-related Suggestion : technicala@fiuu.com<br>
+Abuse Reporting : abuse@fiuu.com<br>
+R&D and Tech-related Suggestion : technical@fiuu.com<br>
 Abuse Reporting : abuse@fiuu.com
