@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
     return new MaterialApp(
       home: new Scaffold(
         appBar: new AppBar(
-          title: new Text('RMS XDK Example'),
+          title: new Text('Fiuu XDK Example'),
         ),
         body: new Center(
           child: new Column(
