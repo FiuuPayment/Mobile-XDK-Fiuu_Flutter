@@ -1,6 +1,5 @@
+import 'package:fiuu_mobile_xdk_flutter/fiuu_mobile_xdk_flutter.dart';
 import 'package:flutter/material.dart';
-
-import 'package:rms_mobile_xdk_flutter/rms_mobile_xdk_flutter.dart';
 
 void main() {
   runApp(MyApp());
@@ -23,7 +22,7 @@ class _MyAppState extends State<MyApp> {
     return new MaterialApp(
       home: new Scaffold(
         appBar: new AppBar(
-          title: new Text('RMS XDK Example'),
+          title: new Text('Fiuu XDK Example'),
         ),
         body: new Center(
           child: new Column(
@@ -94,8 +93,8 @@ class _MyAppState extends State<MyApp> {
                     // 'mp_dev_mode' : true
                   };
 
-                  String result = await MobileXDK.start(paymentDetails);
-                  print("Result" + result);
+                  String? result = await MobileXDK.start(paymentDetails);
+                  print("Result" + result!);
                 },
               ),
             ],
