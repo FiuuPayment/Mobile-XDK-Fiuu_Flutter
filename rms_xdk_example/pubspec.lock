@@ -61,10 +61,10 @@ packages:
     dependency: "direct main"
     description:
       name: fiuu_mobile_xdk_flutter
-      sha256: "1239c26d5691dd270c06881a70c5ade7dbb3fff7223ccc95532462891b7941df"
+      sha256: c807220d325ebc5afcf7c37dca4180c95ae35e32bc7884e0427c6541c152a9bb
       url: "https://pub.dev"
     source: hosted
-    version: "3.34.21"
+    version: "3.34.30"
   flutter:
     dependency: "direct main"
     description: flutter
